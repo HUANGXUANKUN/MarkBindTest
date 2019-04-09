@@ -1,1 +1,21 @@
 2019-04-09T07:57:33.026Z - info: Initialization success.
+2019-04-09T08:02:26.517Z - warn: Command 'serve./testing.txt' doesn't exist, run "markbind --help" to list commands.
+2019-04-09T08:02:50.258Z - info: Website generation started at 4:02:50 PM
+2019-04-09T08:02:50.302Z - info: Building assets...
+2019-04-09T08:02:50.322Z - info: Assets built
+2019-04-09T08:02:50.323Z - info: Generating pages...
+2019-04-09T08:02:50.429Z - info: Pages built
+2019-04-09T08:02:50.516Z - info: Website generation complete! Total build time: 0.271s
+2019-04-09T08:02:50.549Z - info: Serving "C:\Users\acer\Desktop\MarkBindTest\_site" at http://127.0.0.1:8080
+2019-04-09T08:02:50.550Z - info: Press CTRL+C to stop ...
+2019-04-09T08:02:50.562Z - info: Site data built
+2019-04-09T08:05:23.690Z - info: [4:05:23 PM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T08:05:24.696Z - info: Rebuilding affected source files
+2019-04-09T08:05:24.700Z - info: Rebuilding 1 pages
+2019-04-09T08:05:24.793Z - info: Pages rebuilt
+2019-04-09T08:05:24.797Z - info: Site data built
+2019-04-09T08:05:25.289Z - info: [4:05:25 PM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T08:05:26.292Z - info: Rebuilding affected source files
+2019-04-09T08:05:26.294Z - info: Rebuilding 1 pages
+2019-04-09T08:05:26.370Z - info: Pages rebuilt
+2019-04-09T08:05:26.376Z - info: Site data built

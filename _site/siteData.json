@@ -1,0 +1,25 @@
+{
+  "enableSearch": true,
+  "pages": [
+    {
+      "headings": {
+        "hello-world": "Hello world",
+        "heading-level-3": "Heading level 3"
+      },
+      "title": "Hello World",
+      "footer": "footer.md",
+      "header": "header.md",
+      "siteNav": "site-nav.md",
+      "src": "index.md",
+      "layout": "default"
+    },
+    {
+      "headings": {
+        "markbindtest": "MarkBindTest"
+      },
+      "src": "README.md",
+      "title": "",
+      "layout": "default"
+    }
+  ]
+}

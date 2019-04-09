@@ -7,3 +7,11 @@
 
 # Hello world
 Welcome to your page generated with MarkBind.
+
+### Heading level 3
+...
+###### Heading level 6
+
+**Bold**, _Italic_, ___Bold and Italic___, `Inline Code`
+
+MarkBind home is at [here](https://markbind.org).
