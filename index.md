@@ -1,34 +1,21 @@
 <frontmatter>
-  title: "Hello World"
+  title: "Explore MarkBind"
   footer: footer.md
   header: header.md
   siteNav: site-nav.md
 </frontmatter>
 
-# Hello world
-Welcome to your page generated with MarkBind.
+## Dynamic Programming
 
-### Heading level 3
-...
-###### Heading level 6
+>The **O(V+E)** Dynamic Programming algorithm can solve special case of **SSSP problem**, i.e. when the input graph is a ++Directed Acyclic Graph(DAG)++ thus we can find at least one ~~tropicology~~ topological order of the DAG and process the ****edge relaxation**** according to this ****topological order****.
+>
+>>On the Modified Dijkstra's killer example shown above, DP(0) works fast as the graph is actually a DAG, albeit having negative weight edge. As the graph is a DAG, there will not be any negative weight cycle to worry about.
+>>
+>>>For more info: ++==https://visualgo.net/en/sssp?slide=10-1==++
 
-**Bold**, _Italic_, ___Bold and Italic___, `Inline Code`
+![](img/001.png)
 
-MarkBind home is at [here](https://markbind.org).
-
-<span>
-<md>Apples **Bananas** Cherries</md>
-</span>
-
-<span>
-<markdown>##### Apples **Bananas** Cherries</markdown>
-</span>
-
-<panel header="Click to expand" type="seamless">
-  Panel Content.
-</panel>
-
-Normal:
+Testing Badges:
 <span class="badge badge-primary">Primary</span>
 <span class="badge badge-secondary">Secondary</span>
 <span class="badge badge-success">Success</span>
@@ -37,12 +24,3 @@ Normal:
 <span class="badge badge-info">Info</span>
 <span class="badge badge-light">Light</span>
 <span class="badge badge-dark">Dark</span>
-<br>Pills:
-<span class="badge badge-pill badge-primary">Primary</span>
-<span class="badge badge-pill badge-secondary">Secondary</span>
-<span class="badge badge-pill badge-success">Success</span>
-<span class="badge badge-pill badge-danger">Danger</span>
-<span class="badge badge-pill badge-warning">Warning</span>
-<span class="badge badge-pill badge-info">Info</span>
-<span class="badge badge-pill badge-light">Light</span>
-<span class="badge badge-pill badge-dark">Dark</span>

@@ -24,9 +24,10 @@
 <body>
   <div id="app">
     <header>
+      <link rel="stylesheet" href=" /MarkBindTest /css/main.css">
       <div class="bg-primary display-4 text-center text-white">
         <br>
-        Start authoring your MarkBind website.
+        Explore MarkBind
         <br>
         <br></div>
     </header>
@@ -34,29 +35,40 @@
       <nav id="site-nav" class="navbar navbar-light bg-transparent">
         <div class="sticky-top site-nav-spacer viewport-height-90 scrollable slim-scroll">
           <ul class="px-0 site-nav-list">
-            <li class="mt-2"><a href="/index.html" class="site-nav__a current">Home <span aria-hidden="true" class="glyphicon glyphicon-home"></span></a></li>
+            <li class="mt-2"><a href="/MarkBindTest/index.html" class="site-nav__a current">🏠 Home</a></li>
+            <li class="mt-2"><button class="dropdown-btn dropdown-btn-open">Docs
+                <i class="dropdown-btn-icon rotate-icon">
+                  <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></i></button>
+              <div class="dropdown-container dropdown-container-open">
+                <ul class="pl-3 site-nav-list">
+                  <li class="mt-2"><a href="/MarkBindTest/ug.html" class="site-nav__a">User Guide</a></li>
+                  <li class="mt-2"><a href="/MarkBindTest/dg.html" class="site-nav__a">Dev Guide</a></li>
+                </ul>
+              </div>
+            </li>
+            <li class="mt-2"><a href="/MarkBindTest/search.html" class="site-nav__a">Search</a>
+              <ul class="pl-3 site-nav-list">
+                <li class="mt-2"><a href="https://www.google.com/" class="site-nav__a">Google Search</a></li>
+                <li class="mt-2"><a href="https://www.youtube.com/" class="site-nav__a">YouTube Search</a></li>
+              </ul>
+            </li>
+            <li class="mt-2"><a href="/MarkBindTest/contact.html" class="site-nav__a">Contact</a></li>
           </ul>
         </div>
       </nav>
       <div id="content-wrapper">
-        <h1 id="hello-world">Hello world<a class="fa fa-anchor" href="#hello-world"></a></h1>
-        <p>Welcome to your page generated with MarkBind.</p>
-        <h3 id="heading-level-3">Heading level 3<a class="fa fa-anchor" href="#heading-level-3"></a></h3>
-        <p>...</p>
-        <h6 id="heading-level-6">Heading level 6</h6>
-        <p><strong>Bold</strong>, <em>Italic</em>, <em><strong>Bold and Italic</strong></em>, <code>Inline Code</code></p>
-        <p>MarkBind home is at <a href="https://markbind.org">here</a>.</p>
-        <span>
-          <span>Apples <strong>Bananas</strong> Cherries</span></span>
-        <span>
-          <div>
-            <h5 id="apples-bananas-cherries">Apples <strong>Bananas</strong> Cherries</h5>
-          </div>
-        </span>
-        <panel header="Click to expand" type="seamless">
-          Panel Content.
-        </panel>
-        <p>Normal:
+        <h2 id="dynamic-programming">Dynamic Programming<a class="fa fa-anchor" href="#dynamic-programming"></a></h2>
+        <blockquote>
+          <p>The <strong>O(V+E)</strong> Dynamic Programming algorithm can solve special case of <strong>SSSP problem</strong>, i.e. when the input graph is a <ins>Directed Acyclic Graph(DAG)</ins> thus we can find at least one <s>tropicology</s> topological order of the DAG and process the <strong><strong>edge relaxation</strong></strong> according to this <strong><strong>topological order</strong></strong>.</p>
+          <blockquote>
+            <p>On the Modified Dijkstra's killer example shown above, DP(0) works fast as the graph is actually a DAG, albeit having negative weight edge. As the graph is a DAG, there will not be any negative weight cycle to worry about.</p>
+            <blockquote>
+              <p>For more info: <ins><mark><a href="https://visualgo.net/en/sssp?slide=10-1">https://visualgo.net/en/sssp?slide=10-1</a></mark></ins></p>
+            </blockquote>
+          </blockquote>
+        </blockquote>
+        <p><a href="img/001.png" target="_self"><img src="img/001.png" alt class="img-fluid"></a></p>
+        <p>Testing Badges:
           <span class="badge badge-primary">Primary</span>
           <span class="badge badge-secondary">Secondary</span>
           <span class="badge badge-success">Success</span>
@@ -64,16 +76,7 @@
           <span class="badge badge-warning">Warning</span>
           <span class="badge badge-info">Info</span>
           <span class="badge badge-light">Light</span>
-          <span class="badge badge-dark">Dark</span>
-          <br>Pills:
-          <span class="badge badge-pill badge-primary">Primary</span>
-          <span class="badge badge-pill badge-secondary">Secondary</span>
-          <span class="badge badge-pill badge-success">Success</span>
-          <span class="badge badge-pill badge-danger">Danger</span>
-          <span class="badge badge-pill badge-warning">Warning</span>
-          <span class="badge badge-pill badge-info">Info</span>
-          <span class="badge badge-pill badge-light">Light</span>
-          <span class="badge badge-pill badge-dark">Dark</span></p>
+          <span class="badge badge-dark">Dark</span></p>
       </div>
     </div>
     <footer>
@@ -82,7 +85,7 @@
       </div>
 
       <div class="text-center">
-        <small>[Generated by <a href="https://markbind.org/">MarkBind 2.1.1</a> on Tue, 09 Apr 2019 09:42:45 GMT]</small></div>
+        <small>[Generated by <a href="https://markbind.org/">MarkBind 2.1.1</a> on Tue, 09 Apr 2019 16:44:06 GMT]</small></div>
     </footer>
   </div>
 </body>
@@ -92,7 +95,7 @@
 <script src="markbind/js/polyfill.min.js"></script>
 <script src="markbind/js/bootstrap-vue.min.js"></script>
 <script>
-  const baseUrl = ''
+  const baseUrl = '/MarkBindTest'
   const enableSearch = true
 </script>
 <script src="markbind/js/setup.js"></script>

@@ -1,7 +1,8 @@
 <header>
+<link rel="stylesheet" href=" {{ baseUrl }} /css/main.css">
   <div class="bg-primary display-4 text-center text-white">
     <br>
-    Start authoring your MarkBind website.
+    Explore MarkBind
     <br>
     <br>
   </div>

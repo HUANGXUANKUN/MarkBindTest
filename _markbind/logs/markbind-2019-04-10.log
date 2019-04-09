@@ -1,0 +1,403 @@
+2019-04-09T16:01:01.479Z - info: [12:01:01 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\_markbind\navigation\site-nav.md
+2019-04-09T16:01:02.491Z - info: Rebuilding affected source files
+2019-04-09T16:01:02.495Z - info: Rebuilding 1 pages
+2019-04-09T16:01:02.649Z - info: Pages rebuilt
+2019-04-09T16:01:02.652Z - info: Site data built
+2019-04-09T16:01:04.379Z - info: [12:01:04 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\_markbind\navigation\site-nav.md
+2019-04-09T16:01:05.381Z - info: Rebuilding affected source files
+2019-04-09T16:01:05.382Z - info: Rebuilding 1 pages
+2019-04-09T16:01:05.525Z - info: Pages rebuilt
+2019-04-09T16:01:05.529Z - info: Site data built
+2019-04-09T16:01:14.828Z - info: Website generation started at 12:01:14 AM
+2019-04-09T16:01:14.883Z - info: Building assets...
+2019-04-09T16:01:14.918Z - info: Assets built
+2019-04-09T16:01:14.918Z - info: Generating pages...
+2019-04-09T16:01:15.084Z - info: Pages built
+2019-04-09T16:01:15.137Z - info: Website generation complete! Total build time: 0.342s
+2019-04-09T16:01:15.138Z - info: Build success!
+2019-04-09T16:01:15.139Z - info: Site data built
+2019-04-09T16:01:18.657Z - info: Website generation started at 12:01:18 AM
+2019-04-09T16:01:18.714Z - info: Building assets...
+2019-04-09T16:01:18.747Z - info: Assets built
+2019-04-09T16:01:18.747Z - info: Generating pages...
+2019-04-09T16:01:18.918Z - info: Pages built
+2019-04-09T16:01:18.975Z - info: Website generation complete! Total build time: 0.352s
+2019-04-09T16:01:19.004Z - info: Serving "C:\Users\acer\Desktop\MarkBindTest\_site" at http://127.0.0.1:8080
+2019-04-09T16:01:19.004Z - info: Press CTRL+C to stop ...
+2019-04-09T16:01:19.015Z - info: Site data built
+2019-04-09T16:05:19.509Z - info: [12:05:19 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\_markbind\navigation\site-nav.md
+2019-04-09T16:05:20.517Z - info: Rebuilding affected source files
+2019-04-09T16:05:20.520Z - info: Rebuilding 1 pages
+2019-04-09T16:05:20.654Z - info: Pages rebuilt
+2019-04-09T16:05:20.657Z - info: Site data built
+2019-04-09T16:05:20.795Z - info: [12:05:20 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\_markbind\navigation\site-nav.md
+2019-04-09T16:05:21.797Z - info: Rebuilding affected source files
+2019-04-09T16:05:21.798Z - info: Rebuilding 1 pages
+2019-04-09T16:05:21.910Z - info: Pages rebuilt
+2019-04-09T16:05:21.913Z - info: Site data built
+2019-04-09T16:05:27.390Z - info: [12:05:27 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\_markbind\navigation\site-nav.md
+2019-04-09T16:05:28.392Z - info: Rebuilding affected source files
+2019-04-09T16:05:28.393Z - info: Rebuilding 1 pages
+2019-04-09T16:05:28.490Z - info: Pages rebuilt
+2019-04-09T16:05:28.493Z - info: Site data built
+2019-04-09T16:05:30.007Z - info: [12:05:30 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\_markbind\navigation\site-nav.md
+2019-04-09T16:05:31.009Z - info: Rebuilding affected source files
+2019-04-09T16:05:31.010Z - info: Rebuilding 1 pages
+2019-04-09T16:05:31.115Z - info: Pages rebuilt
+2019-04-09T16:05:31.119Z - info: Site data built
+2019-04-09T16:07:07.749Z - info: [12:07:07 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\_markbind\headers\header.md
+2019-04-09T16:07:08.751Z - info: Rebuilding affected source files
+2019-04-09T16:07:08.752Z - info: Rebuilding 1 pages
+2019-04-09T16:07:08.838Z - info: Pages rebuilt
+2019-04-09T16:07:08.842Z - info: Site data built
+2019-04-09T16:07:09.269Z - info: [12:07:09 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\_markbind\headers\header.md
+2019-04-09T16:07:10.270Z - info: Rebuilding affected source files
+2019-04-09T16:07:10.271Z - info: Rebuilding 1 pages
+2019-04-09T16:07:10.358Z - info: Pages rebuilt
+2019-04-09T16:07:10.363Z - info: Site data built
+2019-04-09T16:07:10.469Z - info: [12:07:10 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\_markbind\headers\header.md
+2019-04-09T16:07:11.471Z - info: Rebuilding affected source files
+2019-04-09T16:07:11.472Z - info: Rebuilding 1 pages
+2019-04-09T16:07:11.518Z - info: Pages rebuilt
+2019-04-09T16:07:11.524Z - info: Site data built
+2019-04-09T16:08:27.569Z - info: [12:08:27 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:08:28.574Z - info: Rebuilding affected source files
+2019-04-09T16:08:28.576Z - info: Rebuilding 1 pages
+2019-04-09T16:08:28.677Z - info: Pages rebuilt
+2019-04-09T16:08:28.681Z - info: Site data built
+2019-04-09T16:08:30.122Z - info: [12:08:30 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:08:31.123Z - info: Rebuilding affected source files
+2019-04-09T16:08:31.124Z - info: Rebuilding 1 pages
+2019-04-09T16:08:31.187Z - info: Pages rebuilt
+2019-04-09T16:08:31.190Z - info: Site data built
+2019-04-09T16:08:31.285Z - info: [12:08:31 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:08:32.289Z - info: Rebuilding affected source files
+2019-04-09T16:08:32.290Z - info: Rebuilding 1 pages
+2019-04-09T16:08:32.373Z - info: Pages rebuilt
+2019-04-09T16:08:32.376Z - info: Site data built
+2019-04-09T16:15:14.039Z - info: [12:15:14 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:15:15.041Z - info: Rebuilding affected source files
+2019-04-09T16:15:15.044Z - info: Rebuilding 1 pages
+2019-04-09T16:15:15.119Z - info: Pages rebuilt
+2019-04-09T16:15:15.121Z - info: Site data built
+2019-04-09T16:15:29.684Z - info: [12:15:29 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:15:30.687Z - info: Rebuilding affected source files
+2019-04-09T16:15:30.687Z - info: Rebuilding 1 pages
+2019-04-09T16:15:30.744Z - info: Pages rebuilt
+2019-04-09T16:15:30.749Z - info: Site data built
+2019-04-09T16:15:45.491Z - info: [12:15:45 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\site.json
+2019-04-09T16:15:46.495Z - info: Assets built
+2019-04-09T16:15:52.199Z - info: [12:15:52 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\site.json
+2019-04-09T16:15:53.203Z - info: Assets built
+2019-04-09T16:15:58.612Z - info: [12:15:58 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:15:59.617Z - info: Rebuilding affected source files
+2019-04-09T16:15:59.618Z - info: Rebuilding 1 pages
+2019-04-09T16:15:59.692Z - info: Pages rebuilt
+2019-04-09T16:15:59.695Z - info: Site data built
+2019-04-09T16:15:59.859Z - info: [12:15:59 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:16:00.865Z - info: Rebuilding affected source files
+2019-04-09T16:16:00.865Z - info: Rebuilding 1 pages
+2019-04-09T16:16:00.907Z - info: Pages rebuilt
+2019-04-09T16:16:00.911Z - info: Site data built
+2019-04-09T16:16:00.948Z - info: [12:16:00 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:16:01.949Z - info: Rebuilding affected source files
+2019-04-09T16:16:01.950Z - info: Rebuilding 1 pages
+2019-04-09T16:16:02.000Z - info: Pages rebuilt
+2019-04-09T16:16:02.003Z - info: Site data built
+2019-04-09T16:16:02.504Z - info: [12:16:02 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:16:03.507Z - info: Rebuilding affected source files
+2019-04-09T16:16:03.508Z - info: Rebuilding 1 pages
+2019-04-09T16:16:03.605Z - info: Pages rebuilt
+2019-04-09T16:16:03.608Z - info: Site data built
+2019-04-09T16:16:13.825Z - info: [12:16:13 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:16:14.831Z - info: Rebuilding affected source files
+2019-04-09T16:16:14.832Z - info: Rebuilding 1 pages
+2019-04-09T16:16:14.918Z - info: Pages rebuilt
+2019-04-09T16:16:14.923Z - info: Site data built
+2019-04-09T16:16:33.893Z - info: [12:16:33 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:16:34.896Z - info: Rebuilding affected source files
+2019-04-09T16:16:34.896Z - info: Rebuilding 1 pages
+2019-04-09T16:16:34.966Z - info: Pages rebuilt
+2019-04-09T16:16:34.970Z - info: Site data built
+2019-04-09T16:16:35.693Z - info: [12:16:35 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:16:36.697Z - info: Rebuilding affected source files
+2019-04-09T16:16:36.698Z - info: Rebuilding 1 pages
+2019-04-09T16:16:36.772Z - info: Pages rebuilt
+2019-04-09T16:16:36.777Z - info: Site data built
+2019-04-09T16:16:43.426Z - info: [12:16:43 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:16:44.429Z - info: Rebuilding affected source files
+2019-04-09T16:16:44.430Z - info: Rebuilding 1 pages
+2019-04-09T16:16:44.512Z - info: Pages rebuilt
+2019-04-09T16:16:44.515Z - info: Site data built
+2019-04-09T16:17:51.307Z - info: [12:17:51 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\_markbind\headers\header.md
+2019-04-09T16:17:52.309Z - info: Rebuilding affected source files
+2019-04-09T16:17:52.311Z - info: Rebuilding 1 pages
+2019-04-09T16:17:52.380Z - info: Pages rebuilt
+2019-04-09T16:17:52.384Z - info: Site data built
+2019-04-09T16:20:32.975Z - info: [12:20:32 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:20:33.979Z - info: Rebuilding affected source files
+2019-04-09T16:20:33.980Z - info: Rebuilding 1 pages
+2019-04-09T16:20:34.055Z - info: Pages rebuilt
+2019-04-09T16:20:34.061Z - info: Site data built
+2019-04-09T16:20:34.253Z - info: [12:20:34 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:20:35.255Z - info: Rebuilding affected source files
+2019-04-09T16:20:35.256Z - info: Rebuilding 1 pages
+2019-04-09T16:20:35.335Z - info: Pages rebuilt
+2019-04-09T16:20:35.339Z - info: Site data built
+2019-04-09T16:21:47.562Z - info: [12:21:47 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:21:48.564Z - info: Rebuilding affected source files
+2019-04-09T16:21:48.564Z - info: Rebuilding 1 pages
+2019-04-09T16:21:48.634Z - info: Pages rebuilt
+2019-04-09T16:21:48.638Z - info: Site data built
+2019-04-09T16:21:58.393Z - info: [12:21:58 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:21:59.395Z - info: Rebuilding affected source files
+2019-04-09T16:21:59.396Z - info: Rebuilding 1 pages
+2019-04-09T16:21:59.453Z - info: Pages rebuilt
+2019-04-09T16:21:59.457Z - info: Site data built
+2019-04-09T16:22:25.285Z - info: [12:22:25 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:22:26.289Z - info: Rebuilding affected source files
+2019-04-09T16:22:26.291Z - info: Rebuilding 1 pages
+2019-04-09T16:22:26.344Z - info: Pages rebuilt
+2019-04-09T16:22:26.347Z - info: Site data built
+2019-04-09T16:23:05.463Z - info: [12:23:05 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:23:06.465Z - info: Rebuilding affected source files
+2019-04-09T16:23:06.466Z - info: Rebuilding 1 pages
+2019-04-09T16:23:06.552Z - info: Pages rebuilt
+2019-04-09T16:23:06.555Z - info: Site data built
+2019-04-09T16:24:01.163Z - info: [12:24:01 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:24:02.165Z - info: Rebuilding affected source files
+2019-04-09T16:24:02.166Z - info: Rebuilding 1 pages
+2019-04-09T16:24:02.231Z - info: Pages rebuilt
+2019-04-09T16:24:02.234Z - info: Site data built
+2019-04-09T16:24:02.347Z - info: [12:24:02 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:24:03.348Z - info: Rebuilding affected source files
+2019-04-09T16:24:03.348Z - info: Rebuilding 1 pages
+2019-04-09T16:24:03.405Z - info: Pages rebuilt
+2019-04-09T16:24:03.409Z - info: Site data built
+2019-04-09T16:25:16.319Z - info: [12:25:16 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:25:17.321Z - info: Rebuilding affected source files
+2019-04-09T16:25:17.322Z - info: Rebuilding 1 pages
+2019-04-09T16:25:17.438Z - info: Pages rebuilt
+2019-04-09T16:25:17.442Z - info: Site data built
+2019-04-09T16:25:18.056Z - info: [12:25:18 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:25:19.058Z - info: Rebuilding affected source files
+2019-04-09T16:25:19.058Z - info: Rebuilding 1 pages
+2019-04-09T16:25:19.152Z - info: Pages rebuilt
+2019-04-09T16:25:19.156Z - info: Site data built
+2019-04-09T16:25:25.478Z - info: [12:25:25 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:25:26.479Z - info: Rebuilding affected source files
+2019-04-09T16:25:26.480Z - info: Rebuilding 1 pages
+2019-04-09T16:25:26.600Z - info: Pages rebuilt
+2019-04-09T16:25:26.607Z - info: Site data built
+2019-04-09T16:27:32.619Z - info: [12:27:32 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:27:33.543Z - info: [12:27:33 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:27:33.623Z - info: Rebuilding affected source files
+2019-04-09T16:27:33.624Z - info: Rebuilding 1 pages
+2019-04-09T16:27:33.699Z - info: Pages rebuilt
+2019-04-09T16:27:33.702Z - info: Site data built
+2019-04-09T16:27:34.878Z - info: [12:27:34 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:27:35.880Z - info: Rebuilding affected source files
+2019-04-09T16:27:35.881Z - info: Rebuilding 1 pages
+2019-04-09T16:27:35.942Z - info: Pages rebuilt
+2019-04-09T16:27:35.945Z - info: Site data built
+2019-04-09T16:27:36.387Z - info: [12:27:36 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:27:37.391Z - info: Rebuilding affected source files
+2019-04-09T16:27:37.391Z - info: Rebuilding 1 pages
+2019-04-09T16:27:37.442Z - info: Pages rebuilt
+2019-04-09T16:27:37.445Z - info: Site data built
+2019-04-09T16:27:37.873Z - info: [12:27:37 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:27:38.875Z - info: Rebuilding affected source files
+2019-04-09T16:27:38.876Z - info: Rebuilding 1 pages
+2019-04-09T16:27:38.958Z - info: Pages rebuilt
+2019-04-09T16:27:38.962Z - info: Site data built
+2019-04-09T16:28:12.893Z - info: [12:28:12 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:28:13.897Z - info: Rebuilding affected source files
+2019-04-09T16:28:13.898Z - info: Rebuilding 1 pages
+2019-04-09T16:28:13.907Z - info: [12:28:13 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:28:13.984Z - info: Pages rebuilt
+2019-04-09T16:28:13.988Z - info: Site data built
+2019-04-09T16:28:14.909Z - info: Rebuilding affected source files
+2019-04-09T16:28:14.910Z - info: Rebuilding 1 pages
+2019-04-09T16:28:15.003Z - info: Pages rebuilt
+2019-04-09T16:28:15.007Z - info: Site data built
+2019-04-09T16:28:30.163Z - info: [12:28:30 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:28:31.166Z - info: Rebuilding affected source files
+2019-04-09T16:28:31.167Z - info: Rebuilding 1 pages
+2019-04-09T16:28:31.263Z - info: Pages rebuilt
+2019-04-09T16:28:31.266Z - info: Site data built
+2019-04-09T16:29:31.150Z - info: [12:29:31 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\site.json
+2019-04-09T16:29:32.152Z - info: Assets built
+2019-04-09T16:29:36.705Z - info: [12:29:36 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:29:37.707Z - info: Rebuilding affected source files
+2019-04-09T16:29:37.708Z - info: Rebuilding 1 pages
+2019-04-09T16:29:37.786Z - info: Pages rebuilt
+2019-04-09T16:29:37.790Z - info: Site data built
+2019-04-09T16:29:49.118Z - info: [12:29:49 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:29:50.121Z - info: Rebuilding affected source files
+2019-04-09T16:29:50.122Z - info: Rebuilding 1 pages
+2019-04-09T16:29:50.188Z - info: Pages rebuilt
+2019-04-09T16:29:50.192Z - info: Site data built
+2019-04-09T16:29:55.351Z - info: [12:29:55 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:29:56.357Z - info: Rebuilding affected source files
+2019-04-09T16:29:56.359Z - info: Rebuilding 1 pages
+2019-04-09T16:29:56.433Z - info: Pages rebuilt
+2019-04-09T16:29:56.437Z - info: Site data built
+2019-04-09T16:30:38.832Z - info: [12:30:38 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:30:39.834Z - info: Rebuilding affected source files
+2019-04-09T16:30:39.835Z - info: Rebuilding 1 pages
+2019-04-09T16:30:39.906Z - info: Pages rebuilt
+2019-04-09T16:30:39.909Z - info: Site data built
+2019-04-09T16:30:40.396Z - info: [12:30:40 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:30:41.163Z - info: [12:30:41 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:30:41.399Z - info: Rebuilding affected source files
+2019-04-09T16:30:41.401Z - info: Rebuilding 1 pages
+2019-04-09T16:30:41.442Z - info: Pages rebuilt
+2019-04-09T16:30:41.445Z - info: Site data built
+2019-04-09T16:30:41.783Z - info: [12:30:41 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:30:42.793Z - info: Rebuilding affected source files
+2019-04-09T16:30:42.794Z - info: Rebuilding 1 pages
+2019-04-09T16:30:42.875Z - info: Pages rebuilt
+2019-04-09T16:30:42.880Z - info: Site data built
+2019-04-09T16:31:06.940Z - info: [12:31:06 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:31:07.946Z - info: Rebuilding affected source files
+2019-04-09T16:31:07.947Z - info: Rebuilding 1 pages
+2019-04-09T16:31:08.011Z - info: Pages rebuilt
+2019-04-09T16:31:08.015Z - info: Site data built
+2019-04-09T16:31:18.457Z - info: [12:31:18 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:31:19.462Z - info: Rebuilding affected source files
+2019-04-09T16:31:19.463Z - info: Rebuilding 1 pages
+2019-04-09T16:31:19.563Z - info: Pages rebuilt
+2019-04-09T16:31:19.568Z - info: Site data built
+2019-04-09T16:31:29.823Z - info: [12:31:29 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:31:30.827Z - info: Rebuilding affected source files
+2019-04-09T16:31:30.828Z - info: Rebuilding 1 pages
+2019-04-09T16:31:30.885Z - info: Pages rebuilt
+2019-04-09T16:31:30.889Z - info: Site data built
+2019-04-09T16:32:00.285Z - info: [12:32:00 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:32:01.287Z - info: Rebuilding affected source files
+2019-04-09T16:32:01.288Z - info: Rebuilding 1 pages
+2019-04-09T16:32:01.393Z - info: Pages rebuilt
+2019-04-09T16:32:01.396Z - info: Site data built
+2019-04-09T16:33:55.189Z - info: [12:33:55 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:33:56.192Z - info: Rebuilding affected source files
+2019-04-09T16:33:56.194Z - info: Rebuilding 1 pages
+2019-04-09T16:33:56.254Z - info: [12:33:56 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:33:56.259Z - info: Pages rebuilt
+2019-04-09T16:33:56.263Z - info: Site data built
+2019-04-09T16:33:57.257Z - info: Rebuilding affected source files
+2019-04-09T16:33:57.258Z - info: Rebuilding 1 pages
+2019-04-09T16:33:57.325Z - info: Pages rebuilt
+2019-04-09T16:33:57.329Z - info: Site data built
+2019-04-09T16:34:13.146Z - info: [12:34:13 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:34:14.152Z - info: Rebuilding affected source files
+2019-04-09T16:34:14.152Z - info: Rebuilding 1 pages
+2019-04-09T16:34:14.191Z - info: Pages rebuilt
+2019-04-09T16:34:14.194Z - info: Site data built
+2019-04-09T16:34:17.970Z - info: [12:34:17 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:34:18.974Z - info: Rebuilding affected source files
+2019-04-09T16:34:18.975Z - info: Rebuilding 1 pages
+2019-04-09T16:34:19.054Z - info: Pages rebuilt
+2019-04-09T16:34:19.057Z - info: Site data built
+2019-04-09T16:34:36.612Z - info: [12:34:36 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:34:37.618Z - info: Rebuilding affected source files
+2019-04-09T16:34:37.620Z - info: Rebuilding 1 pages
+2019-04-09T16:34:37.693Z - info: Pages rebuilt
+2019-04-09T16:34:37.695Z - info: Site data built
+2019-04-09T16:36:51.718Z - info: [12:36:51 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:36:52.725Z - info: Rebuilding affected source files
+2019-04-09T16:36:52.725Z - info: Rebuilding 1 pages
+2019-04-09T16:36:52.765Z - info: Pages rebuilt
+2019-04-09T16:36:52.769Z - info: Site data built
+2019-04-09T16:37:36.514Z - info: [12:37:36 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:37:37.519Z - info: Rebuilding affected source files
+2019-04-09T16:37:37.521Z - info: Rebuilding 1 pages
+2019-04-09T16:37:37.580Z - info: Pages rebuilt
+2019-04-09T16:37:37.584Z - info: Site data built
+2019-04-09T16:38:01.101Z - info: [12:38:01 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:38:02.103Z - info: Rebuilding affected source files
+2019-04-09T16:38:02.104Z - info: Rebuilding 1 pages
+2019-04-09T16:38:02.142Z - info: Pages rebuilt
+2019-04-09T16:38:02.146Z - info: Site data built
+2019-04-09T16:38:07.028Z - info: [12:38:07 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:38:08.032Z - info: Rebuilding affected source files
+2019-04-09T16:38:08.032Z - info: Rebuilding 1 pages
+2019-04-09T16:38:08.085Z - info: Pages rebuilt
+2019-04-09T16:38:08.089Z - info: Site data built
+2019-04-09T16:38:16.971Z - info: [12:38:16 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:38:17.973Z - info: Rebuilding affected source files
+2019-04-09T16:38:17.974Z - info: Rebuilding 1 pages
+2019-04-09T16:38:18.042Z - info: Pages rebuilt
+2019-04-09T16:38:18.045Z - info: Site data built
+2019-04-09T16:38:35.367Z - info: [12:38:35 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:38:36.371Z - info: Rebuilding affected source files
+2019-04-09T16:38:36.372Z - info: Rebuilding 1 pages
+2019-04-09T16:38:36.439Z - info: Pages rebuilt
+2019-04-09T16:38:36.442Z - info: Site data built
+2019-04-09T16:38:42.534Z - info: [12:38:42 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:38:43.536Z - info: Rebuilding affected source files
+2019-04-09T16:38:43.537Z - info: Rebuilding 1 pages
+2019-04-09T16:38:43.616Z - info: Pages rebuilt
+2019-04-09T16:38:43.619Z - info: Site data built
+2019-04-09T16:38:46.094Z - info: [12:38:46 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:38:47.096Z - info: Rebuilding affected source files
+2019-04-09T16:38:47.097Z - info: Rebuilding 1 pages
+2019-04-09T16:38:47.177Z - info: Pages rebuilt
+2019-04-09T16:38:47.180Z - info: Site data built
+2019-04-09T16:39:02.005Z - info: [12:39:02 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:39:03.006Z - info: Rebuilding affected source files
+2019-04-09T16:39:03.007Z - info: Rebuilding 1 pages
+2019-04-09T16:39:03.145Z - info: Pages rebuilt
+2019-04-09T16:39:03.148Z - info: Site data built
+2019-04-09T16:39:16.983Z - info: [12:39:16 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:39:17.985Z - info: Rebuilding affected source files
+2019-04-09T16:39:17.987Z - info: Rebuilding 1 pages
+2019-04-09T16:39:18.108Z - info: Pages rebuilt
+2019-04-09T16:39:18.120Z - info: Site data built
+2019-04-09T16:39:25.234Z - info: [12:39:25 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:39:26.236Z - info: Rebuilding affected source files
+2019-04-09T16:39:26.238Z - info: Rebuilding 1 pages
+2019-04-09T16:39:26.310Z - info: Pages rebuilt
+2019-04-09T16:39:26.314Z - info: Site data built
+2019-04-09T16:39:50.567Z - info: [12:39:50 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:39:51.569Z - info: Rebuilding affected source files
+2019-04-09T16:39:51.570Z - info: Rebuilding 1 pages
+2019-04-09T16:39:51.640Z - info: Pages rebuilt
+2019-04-09T16:39:51.644Z - info: Site data built
+2019-04-09T16:40:12.104Z - info: [12:40:12 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:40:13.112Z - info: Rebuilding affected source files
+2019-04-09T16:40:13.112Z - info: Rebuilding 1 pages
+2019-04-09T16:40:13.182Z - info: Pages rebuilt
+2019-04-09T16:40:13.184Z - info: Site data built
+2019-04-09T16:40:29.756Z - info: [12:40:29 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:40:30.758Z - info: Rebuilding affected source files
+2019-04-09T16:40:30.759Z - info: Rebuilding 1 pages
+2019-04-09T16:40:30.825Z - info: Pages rebuilt
+2019-04-09T16:40:30.829Z - info: Site data built
+2019-04-09T16:40:35.305Z - info: [12:40:35 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:40:36.311Z - info: Rebuilding affected source files
+2019-04-09T16:40:36.312Z - info: Rebuilding 1 pages
+2019-04-09T16:40:36.401Z - info: Pages rebuilt
+2019-04-09T16:40:36.403Z - info: Site data built
+2019-04-09T16:42:07.073Z - info: [12:42:07 AM] Reload for file add: C:\Users\acer\Desktop\MarkBindTest\img\001.png
+2019-04-09T16:42:07.108Z - info: [12:42:07 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\img\001.png
+2019-04-09T16:42:08.090Z - info: Assets built
+2019-04-09T16:42:58.558Z - info: [12:42:58 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:42:59.559Z - info: Rebuilding affected source files
+2019-04-09T16:42:59.560Z - info: Rebuilding 1 pages
+2019-04-09T16:42:59.635Z - info: Pages rebuilt
+2019-04-09T16:42:59.639Z - info: Site data built
+2019-04-09T16:43:05.015Z - info: [12:43:05 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:43:06.027Z - info: Rebuilding affected source files
+2019-04-09T16:43:06.027Z - info: Rebuilding 1 pages
+2019-04-09T16:43:06.099Z - info: Pages rebuilt
+2019-04-09T16:43:06.102Z - info: Site data built
+2019-04-09T16:43:27.144Z - info: [12:43:27 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:43:28.146Z - info: Rebuilding affected source files
+2019-04-09T16:43:28.147Z - info: Rebuilding 1 pages
+2019-04-09T16:43:28.222Z - info: Pages rebuilt
+2019-04-09T16:43:28.225Z - info: Site data built
+2019-04-09T16:44:05.762Z - info: [12:44:05 AM] Reload for file change: C:\Users\acer\Desktop\MarkBindTest\index.md
+2019-04-09T16:44:06.766Z - info: Rebuilding affected source files
+2019-04-09T16:44:06.767Z - info: Rebuilding 1 pages
+2019-04-09T16:44:06.847Z - info: Pages rebuilt
+2019-04-09T16:44:06.850Z - info: Site data built

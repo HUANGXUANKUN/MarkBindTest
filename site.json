@@ -1,6 +1,7 @@
 {
   "baseUrl": "/MarkBindTest",
   "titlePrefix": "",
+  "theme": "bootswatch-pulse",
   "ignore": [
     "_markbind/layouts/*",
     "_markbind/logs/*",
@@ -15,7 +16,7 @@
   "pages": [
     {
       "src": "index.md",
-      "title": "Hello World"
+      "title": "Explore MarkBind"
     },
     {
       "glob": "**/index.md"
