@@ -33,3 +33,26 @@
 2019-04-09T08:31:52.895Z - info: Rebuilding 1 pages
 2019-04-09T08:31:52.979Z - info: Pages rebuilt
 2019-04-09T08:31:52.984Z - info: Site data built
+2019-04-09T09:41:21.733Z - info: Website generation started at 5:41:21 PM
+2019-04-09T09:41:21.797Z - info: Building assets...
+2019-04-09T09:41:21.830Z - info: Assets built
+2019-04-09T09:41:21.830Z - info: Generating pages...
+2019-04-09T09:41:21.983Z - info: Pages built
+2019-04-09T09:41:22.089Z - info: Website generation complete! Total build time: 0.396s
+2019-04-09T09:41:22.121Z - info: Serving "C:\Users\acer\Desktop\MarkBindTest\_site" at http://127.0.0.1:8080
+2019-04-09T09:41:22.122Z - info: Press CTRL+C to stop ...
+2019-04-09T09:41:22.134Z - info: Site data built
+2019-04-09T09:42:45.528Z - info: Website generation started at 5:42:45 PM
+2019-04-09T09:42:45.586Z - info: Building assets...
+2019-04-09T09:42:45.618Z - info: Assets built
+2019-04-09T09:42:45.619Z - info: Generating pages...
+2019-04-09T09:42:45.773Z - info: Pages built
+2019-04-09T09:42:45.824Z - info: Website generation complete! Total build time: 0.327s
+2019-04-09T09:42:45.825Z - info: Build success!
+2019-04-09T09:42:45.826Z - info: Site data built
+2019-04-09T09:43:38.093Z - error: fatal: A branch named 'gh-pages' already exists.
+
+2019-04-09T09:46:03.913Z - error: fatal: A branch named 'gh-pages' already exists.
+
+2019-04-09T09:53:27.439Z - error: fatal: A branch named 'gh-pages' already exists.
+
