@@ -15,3 +15,11 @@ Welcome to your page generated with MarkBind.
 **Bold**, _Italic_, ___Bold and Italic___, `Inline Code`
 
 MarkBind home is at [here](https://markbind.org).
+
+<span>
+<md>Apples **Bananas** Cherries</md>
+</span>
+
+<span>
+<markdown>##### Apples **Bananas** Cherries</markdown>
+</span>
