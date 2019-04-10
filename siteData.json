@@ -6,7 +6,10 @@
         "dynamic-programming": "Dynamic Programming",
         "testing-image-insertion": "Testing image insertion",
         "testing-list": "Testing List",
-        "testing-badges": "Testing Badges:"
+        "code-block-test": "Code Block Test",
+        "table-test": "Table Test",
+        "popover-test": "Popover Test",
+        "question-and-answer-test": "Question and Answer Test"
       },
       "title": "Explore MarkBind",
       "footer": "footer.md",
@@ -24,31 +27,9 @@
       "layout": "default"
     },
     {
-      "headings": {},
-      "src": "_site/markbind/layouts/default/footer.md",
-      "title": "",
-      "layout": "default"
-    },
-    {
-      "headings": {},
-      "src": "_site/markbind/layouts/default/head.md",
-      "title": "",
-      "layout": "default"
-    },
-    {
-      "headings": {},
-      "src": "_site/markbind/layouts/default/header.md",
-      "title": "",
-      "layout": "default"
-    },
-    {
-      "headings": {},
-      "src": "_site/markbind/layouts/default/navigation.md",
-      "title": "",
-      "layout": "default"
-    },
-    {
-      "headings": {},
+      "headings": {
+        "feature-x-beta": "Feature X beta"
+      },
       "title": "Explore MarkBind",
       "footer": "footer.md",
       "header": "header.md",
