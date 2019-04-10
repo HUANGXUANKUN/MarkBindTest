@@ -13,14 +13,57 @@
 >>
 >>>For more info: ++==https://visualgo.net/en/sssp?slide=10-1==++
 
-![](img/001.png)
+https://visualgo.net/en/sssp?slide=10-1
 
-Testing Badges:
-<span class="badge badge-primary">Primary</span>
-<span class="badge badge-secondary">Secondary</span>
-<span class="badge badge-success">Success</span>
-<span class="badge badge-danger">Danger</span>
-<span class="badge badge-warning">Warning</span>
-<span class="badge badge-info">Info</span>
-<span class="badge badge-light">Light</span>
-<span class="badge badge-dark">Dark</span>
+### Testing image insertion
+![](img/001.png)<br>
+For more details, click [here](https://markbind.org).
+****
+
+### Testing List
+
+* Item 1
+  * Sub item 1.1
+  * Sub item 1.2<br>
+    Second line
+    * Sub item 1.2.1
+* Item 2
+* Item 3
+
+****
+### Code Block Test
+Consider the xml code `<bar type="name">goo</bar>`{.xml},
+or the java code `public static void main(String[] args)`{.java}.
+
+****
+### Table Test
+Animal | Trainable?| Price | Remarks
+:----- | :-------: | ----: | ----
+Ants   | no        | 5     |
+Bees   | no        | 20    |
+Cats|yes|100|
+
+### Popover Test
+<popover effect="fade" content="Lorem ipsum dolor sit amet" placement="top">
+  <button class="btn btn-secondary">Popover on top</button>
+</popover>
+<popover effect="fade" content="Lorem ipsum dolor sit amet" placement="left">
+  <button class="btn btn-secondary">Popover on left</button>
+</popover>
+<popover effect="fade" content="Lorem ipsum dolor sit amet" placement="right">
+  <button class="btn btn-secondary">Popover on right</button>
+</popover>
+<popover effect="fade" content="Lorem ipsum dolor sit amet" placement="bottom">
+  <button class="btn btn-secondary">Popover on bottom</button>
+</popover>
+
+
+****
+### Question and Answer Test
+<question>
+  This question has no hint or answer.
+  <div slot="hint"></div>
+  <div slot="answer"></div>
+</question>
+
+

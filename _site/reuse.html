@@ -40,14 +40,14 @@
       <nav id="site-nav" class="navbar navbar-light bg-transparent">
         <div class="sticky-top site-nav-spacer viewport-height-90 scrollable slim-scroll">
           <ul class="px-0 site-nav-list">
-            <li class="mt-2"><a href="/MarkBindTest/index.html" class="site-nav__a current">🏠 Home</a></li>
+            <li class="mt-2"><a href="/MarkBindTest/index.html" class="site-nav__a">🏠 Home</a></li>
             <li class="mt-2"><button class="dropdown-btn dropdown-btn-open">Docs
                 <i class="dropdown-btn-icon rotate-icon">
                   <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></i></button>
               <div class="dropdown-container dropdown-container-open">
                 <ul class="pl-3 site-nav-list">
                   <li class="mt-2"><a href="/MarkBindTest/bs.html" class="site-nav__a">Boolstrap Test</a></li>
-                  <li class="mt-2"><a href="/MarkBindTest/reuse.html" class="site-nav__a">Reusing Content Test </a></li>
+                  <li class="mt-2"><a href="/MarkBindTest/reuse.html" class="site-nav__a current">Reusing Content Test </a></li>
                 </ul>
               </div>
             </li>
@@ -55,6 +55,8 @@
         </div>
       </nav>
       <div id="content-wrapper">
+        <p>MarkBind is highly-optimized for content reuse. It offers several mechanisms to provide readers with many variations of the content while minimizing duplication at source file level. As a result, instead of creating a one-size-fits-all site, MarkBind can create a site in which readers can chart their own path of reading.</p>
+        <hr>
         <h2 id="dynamic-programming">Dynamic Programming<a class="fa fa-anchor" href="#dynamic-programming"></a></h2>
         <blockquote>
           <p>The <strong>O(V+E)</strong> Dynamic Programming algorithm can solve special case of <strong>SSSP problem</strong>, i.e. when the input graph is a <ins>Directed Acyclic Graph(DAG)</ins> thus we can find at least one <s>tropicology</s> topological order of the DAG and process the <strong><strong>edge relaxation</strong></strong> according to this <strong><strong>topological order</strong></strong>.</p>
@@ -70,76 +72,6 @@
         <p><a href="img/001.png" target="_self"><img src="img/001.png" alt class="img-fluid"></a><br>
           For more details, click <a href="https://markbind.org">here</a>.</p>
         <hr>
-        <h3 id="testing-list">Testing List<a class="fa fa-anchor" href="#testing-list"></a></h3>
-        <ul>
-          <li>Item 1
-            <ul>
-              <li>Sub item 1.1</li>
-              <li>Sub item 1.2<br>
-                Second line
-                <ul>
-                  <li>Sub item 1.2.1</li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <li>Item 2</li>
-          <li>Item 3</li>
-        </ul>
-        <hr>
-        <h3 id="code-block-test">Code Block Test<a class="fa fa-anchor" href="#code-block-test"></a></h3>
-        <p>Consider the xml code <code class="hljs inline xml"><span class="hljs-tag">&lt;<span class="hljs-name">bar</span> <span class="hljs-attr">type</span>=<span class="hljs-string">"name"</span>&gt;</span>goo<span class="hljs-tag">&lt;/<span class="hljs-name">bar</span>&gt;</span></code>,
-          or the java code <code class="hljs inline java"><span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title">main</span><span class="hljs-params">(String[] args)</span></span></code>.</p>
-        <hr>
-        <h3 id="table-test">Table Test<a class="fa fa-anchor" href="#table-test"></a></h3>
-        <div class="table-responsive">
-          <table class="markbind-table table table-bordered table-striped">
-            <thead>
-              <tr>
-                <th style="text-align:left">Animal</th>
-                <th style="text-align:center">Trainable?</th>
-                <th style="text-align:right">Price</th>
-                <th>Remarks</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td style="text-align:left">Ants</td>
-                <td style="text-align:center">no</td>
-                <td style="text-align:right">5</td>
-                <td></td>
-              </tr>
-              <tr>
-                <td style="text-align:left">Bees</td>
-                <td style="text-align:center">no</td>
-                <td style="text-align:right">20</td>
-                <td></td>
-              </tr>
-              <tr>
-                <td style="text-align:left">Cats</td>
-                <td style="text-align:center">yes</td>
-                <td style="text-align:right">100</td>
-                <td></td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-        <h3 id="popover-test">Popover Test<a class="fa fa-anchor" href="#popover-test"></a></h3>
-        <popover effect="fade" content="Lorem ipsum dolor sit amet" placement="top">
-          <button class="btn btn-secondary">Popover on top</button></popover>
-        <popover effect="fade" content="Lorem ipsum dolor sit amet" placement="left">
-          <button class="btn btn-secondary">Popover on left</button></popover>
-        <popover effect="fade" content="Lorem ipsum dolor sit amet" placement="right">
-          <button class="btn btn-secondary">Popover on right</button></popover>
-        <popover effect="fade" content="Lorem ipsum dolor sit amet" placement="bottom">
-          <button class="btn btn-secondary">Popover on bottom</button></popover>
-        <hr>
-        <h3 id="question-and-answer-test">Question and Answer Test<a class="fa fa-anchor" href="#question-and-answer-test"></a></h3>
-        <question>
-          This question has no hint or answer.
-          <div slot="hint"></div>
-          <div slot="answer"></div>
-        </question>
       </div>
     </div>
     <footer>

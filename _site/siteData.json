@@ -3,9 +3,15 @@
   "pages": [
     {
       "headings": {
-        "dynamic-programming": "Dynamic Programming"
+        "dynamic-programming": "Dynamic Programming",
+        "testing-image-insertion": "Testing image insertion",
+        "testing-list": "Testing List",
+        "code-block-test": "Code Block Test",
+        "table-test": "Table Test",
+        "popover-test": "Popover Test",
+        "question-and-answer-test": "Question and Answer Test"
       },
-      "title": "Hello World",
+      "title": "Explore MarkBind",
       "footer": "footer.md",
       "header": "header.md",
       "siteNav": "site-nav.md",
@@ -18,6 +24,29 @@
       },
       "src": "README.md",
       "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {
+        "feature-x-beta": "Feature X beta"
+      },
+      "title": "Explore MarkBind",
+      "footer": "footer.md",
+      "header": "header.md",
+      "siteNav": "site-nav.md",
+      "src": "bs.md",
+      "layout": "default"
+    },
+    {
+      "headings": {
+        "dynamic-programming": "Dynamic Programming",
+        "testing-image-insertion": "Testing image insertion"
+      },
+      "title": "Explore MarkBind",
+      "footer": "footer.md",
+      "header": "header.md",
+      "siteNav": "site-nav.md",
+      "src": "reuse.md",
       "layout": "default"
     }
   ]
