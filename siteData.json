@@ -3,9 +3,12 @@
   "pages": [
     {
       "headings": {
-        "dynamic-programming": "Dynamic Programming"
+        "dynamic-programming": "Dynamic Programming",
+        "testing-image-insertion": "Testing image insertion",
+        "testing-list": "Testing List",
+        "testing-badges": "Testing Badges:"
       },
-      "title": "Hello World",
+      "title": "Explore MarkBind",
       "footer": "footer.md",
       "header": "header.md",
       "siteNav": "site-nav.md",
@@ -18,6 +21,48 @@
       },
       "src": "README.md",
       "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "_site/markbind/layouts/default/footer.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "_site/markbind/layouts/default/head.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "_site/markbind/layouts/default/header.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "_site/markbind/layouts/default/navigation.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "title": "Explore MarkBind",
+      "footer": "footer.md",
+      "header": "header.md",
+      "siteNav": "site-nav.md",
+      "src": "bs.md",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "title": "Explore MarkBind",
+      "footer": "footer.md",
+      "header": "header.md",
+      "siteNav": "site-nav.md",
+      "src": "reuse.md",
       "layout": "default"
     }
   ]
